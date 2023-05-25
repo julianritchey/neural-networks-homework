@@ -97,6 +97,7 @@ Compilation
 - 30 epochs
 
 ## Results
+
 | Metric | Original model | Alternative model 1 | Alternative model 2 | Alternative model 3 |
 | --- | --- |
 | Accuracy | 0.7287 | 0.7300 | 0.7318 | 0.7331 |
