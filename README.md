@@ -3,6 +3,9 @@ Module 13 Challenge: Venture Funding with Deep Learning
 
 ## Models
 ### Original model
+Data
+- Per instructions
+
 Layers
 - Hidden layer 1
   - 58 hidden nodes
@@ -18,6 +21,9 @@ Compilation
 - 50 epochs
 
 ### Alternative model 1
+Data
+- Per instructions
+
 Layers
 - Hidden layer 1:
   - 58 hidden nodes
@@ -39,6 +45,9 @@ Compilation
 - 20 epochs
 
 ### Alternative model 2
+Data
+- Per instructions
+
 Layers
 - Hidden layer 1:
   - 117 hidden nodes
@@ -63,6 +72,10 @@ Compilation
 - 20 epochs
 
 ### Alternative model 3
+Data
+- Per instructions
+- Additionally dropped 'STATUS' and 'SPECIAL_CONSIDERATIONS' columns
+
 Layers
 - Hidden layer 1:
   - 57 hidden nodes
