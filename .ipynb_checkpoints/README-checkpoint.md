@@ -3,23 +3,22 @@ Module 13 Challenge: Venture Funding with Deep Learning
 
 ## Models
 ### Original model
-Hidden layers
+Layers
 - Hidden layer 1
   - 58 hidden nodes
   - 'relu' activation
 - Hidden layer 2
   - 29 hidden nodes
   - 'relu' activation
-
-Output layer
-- 1 output neuron
-- 'sigmoid' activation
+- Output layer
+  - 1 output neuron
+  - 'sigmoid' activation
 
 Compilation
 - 50 epochs
 
 ### Alternative model 1
-Hidden layers
+Layers
 - Hidden layer 1:
   - 58 hidden nodes
   - 'relu' activation
@@ -32,16 +31,15 @@ Hidden layers
 - Hidden layer 4
   - 7 hidden nodes
   - 'relu' activation
-
-Output layer
-- 1 output neuron
-- 'sigmoid' activation
+- Output layer
+  - 1 output neuron
+  - 'sigmoid' activation
 
 Compilation
 - 20 epochs
 
 ### Alternative model 2
-Hidden layers
+Layers
 - Hidden layer 1:
   - 117 hidden nodes
   - 'tanh' activation
@@ -57,16 +55,15 @@ Hidden layers
 - Hidden layer 5
   - 7 hidden nodes
   - 'tanh' activation
-
-Output layer
-- 1 output neuron
-- 'sigmoid' activation
+- Output layer
+  - 1 output neuron
+  - 'sigmoid' activation
 
 Compilation
 - 20 epochs
 
 ### Alternative model 3
-Hidden layers
+Layers
 - Hidden layer 1:
   - 57 hidden nodes
   - 'tanh' activation
@@ -79,10 +76,9 @@ Hidden layers
 - Hidden layer 4
   - 7 hidden nodes
   - 'tanh' activation
-
-Output layer
-- 1 output neuron
-- 'sigmoid' activation
+- Output layer
+  - 1 output neuron
+  - 'sigmoid' activation
 
 Compilation
 - 30 epochs
