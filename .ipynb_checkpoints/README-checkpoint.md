@@ -19,80 +19,74 @@ Module 13 Challenge: Venture Funding with Deep Learning
   - 50 epochs
 
 ### Alternative model 1
-Data
-- Per instructions
-
-Layers
-- Hidden layer 1:
-  - 58 hidden nodes
-  - `relu` activation
-- Hidden layer 2
-  - 29 hidden nodes
-  - `relu` activation
-- Hidden layer 3
-  - 14 hidden nodes
-  - `relu` activation
-- Hidden layer 4
-  - 7 hidden nodes
-  - `relu` activation
-- Output layer
-  - 1 output neuron
-  - `sigmoid` activation
-
-Compilation
-- 20 epochs
+- Data
+  - Per instructions
+- Layers
+  - Hidden layer 1:
+    - 58 hidden nodes
+    - `relu` activation
+  - Hidden layer 2
+    - 29 hidden nodes
+    - `relu` activation
+  - Hidden layer 3
+    - 14 hidden nodes
+    - `relu` activation
+  - Hidden layer 4
+    - 7 hidden nodes
+    - `relu` activation
+  - Output layer
+    - 1 output neuron
+    - `sigmoid` activation
+- Compilation
+  - 20 epochs
 
 ### Alternative model 2
-Data
-- Per instructions
-
-Layers
-- Hidden layer 1:
-  - 117 hidden nodes
-  - `tanh` activation
-- Hidden layer 2
-  - 58 hidden nodes
-  - `tanh` activation
-- Hidden layer 3
-  - 29 hidden nodes
-  - `tanh` activation
-- Hidden layer 4
-  - 14 hidden nodes
-  - `tanh` activation
-- Hidden layer 5
-  - 7 hidden nodes
-  - `tanh` activation
-- Output layer
-  - 1 output neuron
-  - `sigmoid` activation
-
-Compilation
-- 20 epochs
+- Data
+  - Per instructions
+- Layers
+  - Hidden layer 1:
+    - 117 hidden nodes
+    - `tanh` activation
+  - Hidden layer 2
+    - 58 hidden nodes
+    - `tanh` activation
+  - Hidden layer 3
+    - 29 hidden nodes
+    - `tanh` activation
+  - Hidden layer 4
+    - 14 hidden nodes
+    - `tanh` activation
+  - Hidden layer 5
+    - 7 hidden nodes
+    - `tanh` activation
+  - Output layer
+    - 1 output neuron
+    - `sigmoid` activation
+- Compilation
+  - 20 epochs
 
 ### Alternative model 3
-Data
-- Per instructions
-- Additionally dropped `STATUS` and `SPECIAL_CONSIDERATIONS` columns
-
-Layers
-- Hidden layer 1:
-  - 57 hidden nodes
-  - `tanh` activation
-- Hidden layer 2
-  - 28 hidden nodes
-  - `tanh` activation
-- Hidden layer 3
-  - 14 hidden nodes
-  - `tanh` activation
-- Hidden layer 4
-  - 7 hidden nodes
-  - `tanh` activation
-- Output layer
-  - 1 output neuron
-  - `sigmoid` activation
-
-Compilation
-- 30 epochs
+- Data
+  - Per instructions
+  - Additionally dropped `STATUS` and `SPECIAL_CONSIDERATIONS` columns
+- Layers
+  - Hidden layer 1:
+    - 57 hidden nodes
+    - `tanh` activation
+  - Hidden layer 2
+    - 28 hidden nodes
+    - `tanh` activation
+  - Hidden layer 3
+    - 14 hidden nodes
+    - `tanh` activation
+  - Hidden layer 4
+    - 7 hidden nodes
+    - `tanh` activation
+  - Output layer
+    - 1 output neuron
+    - `sigmoid` activation
+- Compilation
+  - 30 epochs
 
 ## Results
 
