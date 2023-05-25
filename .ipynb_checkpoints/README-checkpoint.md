@@ -10,9 +10,11 @@ Hidden layers
 - Hidden layer 2
   - 29 hidden nodes
   - 'relu' activation
+
 Output layer
 - 1 output neuron
 - 'sigmoid' activation
+
 Compilation
 - 50 epochs
 
@@ -30,9 +32,11 @@ Hidden layers
 - Hidden layer 4
   - 7 hidden nodes
   - 'relu' activation
+
 Output layer
 - 1 output neuron
 - 'sigmoid' activation
+
 Compilation
 - 20 epochs
 
@@ -53,9 +57,11 @@ Hidden layers
 - Hidden layer 5
   - 7 hidden nodes
   - 'tanh' activation
+
 Output layer
 - 1 output neuron
 - 'sigmoid' activation
+
 Compilation
 - 20 epochs
 
@@ -73,9 +79,11 @@ Hidden layers
 - Hidden layer 4
   - 7 hidden nodes
   - 'tanh' activation
+
 Output layer
 - 1 output neuron
 - 'sigmoid' activation
+
 Compilation
 - 30 epochs
 
